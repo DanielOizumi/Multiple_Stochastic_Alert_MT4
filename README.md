@@ -11,7 +11,7 @@ Sets an alert when both stochastic meets the same criteria.
 4. Open MetaTrader 4
 5. On the main menu, click on **FILE** and then **OPEN DATA FOLDER**
 7. Open **MQL4** folder
-8. Open **INDICATORS**
+8. Open **INDICATORS** folder
 9. Copy the "Stochastic Alert for Multiple Timeframe.ex4" file to the INDICATORS folder
 10. Close MetaTrader 4
 11. Open MetaTrader 4 again
