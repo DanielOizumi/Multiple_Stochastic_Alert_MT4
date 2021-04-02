@@ -9,7 +9,7 @@ Sets an alert when both stochastic meets the same criteria.
 2. Open the file on MetaEditor
 3. On the main menu, click on **FILE** and then **COMPILE** (the compiled file "Stochastic Alert for Multiple Timeframe.ex4" will be saved on the same folder as the downloaded file)
 4. Open MetaTrader 4
-5. On the main menu, click **FILE** and then **OPEN DATA FOLDER**
+5. On the main menu, click on **FILE** and then **OPEN DATA FOLDER**
 7. Open **MQL4** folder
 8. Open **INDICATORS**
 9. Copy the "Stochastic Alert for Multiple Timeframe.ex4" file to the INDICATORS folder
