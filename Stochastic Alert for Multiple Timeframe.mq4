@@ -1,10 +1,10 @@
 ﻿//+------------------------------------------------------------------+
 //|                      Stochastic Alert for Multiple Timeframe.mq4 |
 //|                                               Daniel Akio Oizumi |
-//|                        https://www.linkedin.com/in/danieloizumi/ |
+//|                                        https://maisgeeks.com.br/ |
 //+------------------------------------------------------------------+
 #property copyright "Daniel Akio Oizumi"
-#property link      "https://maisgeels.com.br/"
+#property link      "https://maisgeeks.com.br/"
 #property version   "1.00"
 #property strict
 
